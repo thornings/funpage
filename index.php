@@ -37,7 +37,7 @@
       
         <!-- main content -->
         <main>
-          <!--
+          
           <div id="content">
               <div>
                 <select onchange="myChangeFunction(this)">
@@ -57,7 +57,7 @@
           <div id="inserting">
               <a href"www.thornings.dk">link</a>
           </div>
-          -->
+          
            <div id="thorningslideshow">
               <div id="images" class="grow">
                   <img  src="images/bil.png" alt="" />
